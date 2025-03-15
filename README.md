@@ -16,16 +16,6 @@ Acest proiect permite unui microcontroller ESP32 să comunice cu o aplicație mo
 - **ArduinoJson** pentru manipularea datelor JSON
 - **HTTPClient** pentru solicitări API
 
-### Instalare și rulare
-1. Instalează [PlatformIO](https://platformio.org/)
-2. Clonează repository-ul:
-   ```sh
-   git clone https://github.com/user/proiect-esp32.git
-   ```
-3. Deschide proiectul în VS Code cu PlatformIO
-4. Conectează ESP32 și flash-uiește codul pe dispozitiv
-5. Rulează și conectează-te prin aplicația mobilă
-
 ---
 
 ## ESP32 Project - Bluetooth and Wi-Fi Communication
@@ -45,14 +35,4 @@ This project enables an ESP32 microcontroller to communicate with a preconfigure
 - **Arduino Framework**
 - **ArduinoJson** for JSON data handling
 - **HTTPClient** for API requests
-
-### Installation and Running
-1. Install [PlatformIO](https://platformio.org/)
-2. Clone the repository:
-   ```sh
-   git clone https://github.com/user/proiect-esp32.git
-   ```
-3. Open the project in VS Code with PlatformIO
-4. Connect the ESP32 and flash the code onto the device
-5. Run and connect via the mobile app
 
